@@ -1,2 +1,16 @@
-# linux-lab
-Laboratório de Linux para estudos de Administração de Sistemas e Segurança da Informação.
+# Linux Lab
+
+Laboratório criado para documentar meus estudos de Linux e Segurança da Informação.
+
+## Conteúdo
+
+- Comandos básicos
+- Usuários e permissões
+- Redes Linux
+- Scripts Bash
+
+## Ambiente
+
+- Windows 11
+- Git Bash
+- Ubuntu (futuro laboratório)
